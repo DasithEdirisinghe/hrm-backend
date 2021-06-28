@@ -247,7 +247,6 @@ INSERT INTO `pay_grade` VALUES (1,'Level_1'),(2,'Level_2'),(3,'Level_3');
 
 INSERT INTO `paygrade_leave` VALUES (1,1,40),(2,1,20),(3,1,80),(4,1,50),(1,2,30),(2,2,20),(3,2,80),(4,2,50);
 
-call add_employee('Roshinie', 'Jayasndara', '1997-09-09', 'S', 'roshini@gmail.com', 'F', 1, 1, 1, 1, 1,0 , NULL, '0775676543');
 call add_employee('Nimal', 'Perera', '1997-10-09', 'M', 'nimal@gmail.com', 'M', 2, 1, 2, 1, 1,0 , NULL, '0779876543');
 call add_employee('Sunil', 'Perera', '1978-10-09', 'M', 'sunil@gmail.com', 'M', 2, 2, 2, 1, 1,1 , NULL, '0779876548');
 call add_employee('Kumari', 'Perera', '1978-10-09', 'M', 'Kumari@gmail.com', 'F', 2, 3, 2, 2, 1,1 , NULL, '0773456349');
